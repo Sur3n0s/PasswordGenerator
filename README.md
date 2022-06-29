@@ -1,7 +1,7 @@
 # PasswordGenerator
 One day I just needed a strong password, and then I decided to write my own personal generator.
 
-## Thanks
+### Thanks
 Thanks for using and even more so for reading this, I hope you will find my generator useful, enjoy!
 
 ##### Installing ######
@@ -20,5 +20,5 @@ Launch:
 
 ##### ---------- #####
 
-## Important!!!
+### Important!!!
 You must have python3 installed on your computer!

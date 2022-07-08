@@ -4,7 +4,7 @@ One day I just needed a strong password, and then I decided to write my own pers
 ### Thanks
 Thanks for using, I hope you will find my generator useful, enjoy!
 
-##### Installing ######
+### Installing
 
 All you need to install it is clone the repository:
 ## git clone https://github.com/Sur3n0s/PasswordGenerator/
